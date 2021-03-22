@@ -1,0 +1,16 @@
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\bin\Debug\net5.0\ejercicio#3.exe
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\bin\Debug\net5.0\ejercicio#3.deps.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\bin\Debug\net5.0\ejercicio#3.runtimeconfig.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\bin\Debug\net5.0\ejercicio#3.runtimeconfig.dev.json
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\bin\Debug\net5.0\ejercicio#3.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\bin\Debug\net5.0\ref\ejercicio#3.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\bin\Debug\net5.0\ejercicio#3.pdb
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ejercicio#3.csprojAssemblyReference.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ejercicio#3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ejercicio#3.AssemblyInfoInputs.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ejercicio#3.AssemblyInfo.cs
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ejercicio#3.csproj.CoreCompileInputs.cache
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ejercicio#3.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ref\ejercicio#3.dll
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ejercicio#3.pdb
+C:\Users\digit\OneDrive\Documentos\Itla\Segundo cuatrimestre\INT.Programación\Practica#6\ejercicio#3\obj\Debug\net5.0\ejercicio#3.genruntimeconfig.cache
